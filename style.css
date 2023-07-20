@@ -1,0 +1,9 @@
+@media(min-width: 768px){
+    .new-input{
+        width: 50%;
+    }
+}
+.photo-img {
+   height: 100px;
+   width: 100px;
+}
